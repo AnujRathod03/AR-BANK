@@ -1,0 +1,53 @@
+{
+    "1001": {
+        "name": "User 1",
+        "pin": "1001",
+        "balance": 37500,
+        "type": "saving",
+        "address": "Indore",
+        "transactions": [
+            "Deposited Rs. 1",
+            "Withdrawn Rs. 1",
+            "Deposited Rs. 5000",
+            "Withdrawn Rs. 4000",
+            "Deposited Rs. 6500"
+        ]
+    },
+    "1002": {
+        "name": "User 2",
+        "pin": "1002",
+        "balance": 70000,
+        "type": "saving",
+        "address": "Bhopal",
+        "transactions": [
+            "Deposited Rs. 30000"
+        ]
+    },
+    "1003": {
+        "name": "User 3",
+        "pin": "1003",
+        "balance": 40000,
+        "type": "saving",
+        "address": "Bhopal",
+        "transactions": [
+            "Deposited Rs. 10000",
+            "Withdrawn Rs. 50000"
+        ]
+    },
+    "1004": {
+        "name": "User 4",
+        "pin": "1004",
+        "balance": 25000,
+        "type": "Saving",
+        "address": "Indore",
+        "transactions": []
+    },
+    "1005": {
+        "name": "User 5",
+        "pin": "1005",
+        "balance": 60000,
+        "type": "Saving",
+        "address": "Ujjain",
+        "transactions": []
+    }
+}
